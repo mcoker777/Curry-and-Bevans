@@ -21,8 +21,8 @@ Phone 01782 596109, info@curryandbevans.com, Unit 2, Willow Row, Longton, Stoke-
 - **Sectors list** on the home page: confirm accuracy.
 - **Privacy policy**: review before launch.
 - **Social links**: Facebook and Instagram (@curry_and_bevans_ltd) are in the footer on every page and on the Contact page.
-- **Stoke City FC**: the Gold Business Club Partner graphic (`images/stoke-city-gold-business-club.jpg`, from the 2024-25 season) is on the Home and About pages, with a mention in the trust strip and footer. Confirm the partnership is current each season.
-- **Accreditations**: all 13 logos are shown on the home and About pages from `images/accreditations/`. Confirm every scheme is current before going live (lapsed logos can cause problems with scheme bodies).
+- **Stoke City FC**: the Gold Business Club Partner graphic (`stoke-city-gold-business-club.jpg`, from the 2024-25 season) is on the Home and About pages, with a mention in the trust strip and footer. Confirm the partnership is current each season.
+- **Accreditations**: all 13 logos are shown on the home and About pages from ``. Confirm every scheme is current before going live (lapsed logos can cause problems with scheme bodies).
 
 ## Map
 The contact page embeds Google Maps for Unit 2, Willow Row. No API key is needed.
